@@ -1,11 +1,11 @@
 .top {
   height: 5rem;
   width: 2rem;
+  background-color: gold;
 }
 .trafficLight {
-  height: 39rem;
-  width: 13rem;
   justify-content: center;
+  background-color: gold;
 }
 .light {
   height: 10rem;
