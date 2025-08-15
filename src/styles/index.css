@@ -11,3 +11,15 @@
   height: 10rem;
   width: 10rem;
 }
+.redGlow {
+  box-shadow:  0px 1px 17px 10px red;
+}
+.yellowGlow {
+  box-shadow:  0px 1px 17px 10px yellow;
+}
+.greenGlow {
+  box-shadow:  0px 1px 17px 10px green;
+}
+.blueGlow {
+  box-shadow:  0px 1px 17px 10px blue;
+}
